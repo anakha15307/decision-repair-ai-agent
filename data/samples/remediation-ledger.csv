@@ -1,0 +1,4 @@
+transaction_id,customer_id,order_id,type,amount,currency,timestamp,status,item_category,sale_item,defective
+TXN-700149,SYN-C-1001,ORD-50001,refund,182.99,USD,2026-09-14T10:20:00-05:00,completed,,,
+TXN-700150,SYN-C-1025,ORD-50025,refund,199.50,USD,2026-09-15T15:05:00-05:00,completed,,,
+TXN-700151,SYN-C-1003,ORD-50003,refund_failed,159.99,USD,2026-09-16T09:40:00-05:00,declined_card_expired,,,

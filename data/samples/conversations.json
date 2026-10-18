@@ -1,0 +1,2731 @@
+{
+  "conversations": [
+    {
+      "conversation_id": "CONV-10001",
+      "customer_id": "SYN-C-1001",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50001",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-16T15:23:00-05:00",
+          "text": "Hi, I'd like to return the insulated bottle from order ORD-50001. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-16T15:24:35-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 16 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-16T15:25:23-05:00",
+          "text": "Ok, never mind then."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10002",
+      "customer_id": "SYN-C-1002",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50002",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-25T14:46:32-05:00",
+          "text": "Hi, I'd like to return the fleece pullover from order ORD-50002. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-25T14:48:41-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 28 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-25T14:49:18-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10003",
+      "customer_id": "SYN-C-1003",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50003",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-14T19:04:17-05:00",
+          "text": "Hello, I want a refund for my rain shell (ORD-50003). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-14T19:05:55-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 24 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-14T19:08:13-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10004",
+      "customer_id": "SYN-C-1004",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50004",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-16T10:58:08-05:00",
+          "text": "Can I return the trekking poles I bought? Order ORD-50004. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-16T10:59:39-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 17 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-16T11:00:37-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10005",
+      "customer_id": "SYN-C-1005",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50005",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-10T15:23:03-05:00",
+          "text": "Can I return the hiking boots I bought? Order ORD-50005. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-10T15:25:13-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 28 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-10T15:27:17-05:00",
+          "text": "That's disappointing. I'll just keep it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10006",
+      "customer_id": "SYN-C-1006",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50006",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-26T16:40:06-05:00",
+          "text": "I need to send back the trekking poles on ORD-50006 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-26T16:41:27-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 27 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-26T16:43:41-05:00",
+          "text": "Ok, never mind then."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10007",
+      "customer_id": "SYN-C-1007",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50007",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-02T15:03:22-05:00",
+          "text": "Can I return the rain shell I bought? Order ORD-50007. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-02T15:03:50-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 27 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-02T15:04:41-05:00",
+          "text": "That's disappointing. I'll just keep it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10008",
+      "customer_id": "SYN-C-1008",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50008",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-19T16:01:47-05:00",
+          "text": "Hello, I want a refund for my insulated bottle (ORD-50008). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-19T16:04:00-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 19 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-19T16:05:26-05:00",
+          "text": "Ok."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10009",
+      "customer_id": "SYN-C-1009",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50009",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-21T13:44:57-05:00",
+          "text": "Hello, I want a refund for my headlamp (ORD-50009). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-21T13:45:55-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 26 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-21T13:48:06-05:00",
+          "text": "Ok."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10010",
+      "customer_id": "SYN-C-1010",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50010",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-11T12:22:32-05:00",
+          "text": "I need to send back the daypack on ORD-50010 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-11T12:23:38-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 20 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-11T12:25:08-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10011",
+      "customer_id": "SYN-C-1011",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50011",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-17T10:46:30-05:00",
+          "text": "Hi, I'd like to return the daypack from order ORD-50011. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-17T10:47:59-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 25 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-17T10:48:35-05:00",
+          "text": "That's disappointing. I'll just keep it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10012",
+      "customer_id": "SYN-C-1012",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50012",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-20T12:09:37-05:00",
+          "text": "I need to send back the GPS watch strap on ORD-50012 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-20T12:11:20-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 19 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-20T12:12:21-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10013",
+      "customer_id": "SYN-C-1013",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50013",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-03T08:54:35-05:00",
+          "text": "I need to send back the GPS watch strap on ORD-50013 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-03T08:56:10-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 19 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-03T08:57:45-05:00",
+          "text": "Ok."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10014",
+      "customer_id": "SYN-C-1014",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50014",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-23T09:31:46-05:00",
+          "text": "Hello, I want a refund for my insulated bottle (ORD-50014). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-23T09:33:37-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 16 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-23T09:35:50-05:00",
+          "text": "That's disappointing. I'll just keep it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10015",
+      "customer_id": "SYN-C-1015",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50015",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-19T15:46:22-05:00",
+          "text": "Can I return the GPS watch strap I bought? Order ORD-50015. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-19T15:48:00-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 25 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-19T15:48:57-05:00",
+          "text": "That doesn't sound right. I'll call."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10016",
+      "customer_id": "SYN-C-1016",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50016",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-12T12:33:44-05:00",
+          "text": "Hi, I'd like to return the hiking boots from order ORD-50016. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-12T12:34:29-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 27 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-12T12:36:04-05:00",
+          "text": "That doesn't sound right. I'll call."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10017",
+      "customer_id": "SYN-C-1017",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50017",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-10T19:03:41-05:00",
+          "text": "Hi, I'd like to return the trekking poles from order ORD-50017. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-10T19:04:41-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 21 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-10T19:05:53-05:00",
+          "text": "That doesn't sound right. I'll call."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10018",
+      "customer_id": "SYN-C-1018",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50018",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-01T16:18:04-05:00",
+          "text": "Hello, I want a refund for my rain shell (ORD-50018). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-01T16:19:19-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 17 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-01T16:19:51-05:00",
+          "text": "That doesn't sound right. I'll call."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10019",
+      "customer_id": "SYN-C-1019",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50019",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-26T08:53:56-05:00",
+          "text": "Hello, I want a refund for my trekking poles (ORD-50019). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-26T08:55:52-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 28 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-26T08:57:03-05:00",
+          "text": "That doesn't sound right. I'll call."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10020",
+      "customer_id": "SYN-C-1020",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50020",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-27T18:49:28-05:00",
+          "text": "Hi, I'd like to return the rain shell from order ORD-50020. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-27T18:50:15-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 24 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-27T18:52:34-05:00",
+          "text": "That doesn't sound right. I'll call."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10021",
+      "customer_id": "SYN-C-1021",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50021",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-08T17:40:11-05:00",
+          "text": "I need to send back the running shorts on ORD-50021 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-08T17:42:14-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 20 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-08T17:44:13-05:00",
+          "text": "That doesn't sound right. I'll call."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10022",
+      "customer_id": "SYN-C-1022",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50022",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-20T18:01:07-05:00",
+          "text": "I need to send back the insulated bottle on ORD-50022 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-20T18:02:07-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 22 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-20T18:03:57-05:00",
+          "text": "That doesn't sound right. I'll call."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10023",
+      "customer_id": "SYN-C-1023",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50023",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-03T11:52:50-05:00",
+          "text": "Can I return the running shorts I bought? Order ORD-50023. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-03T11:53:30-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 18 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-03T11:55:01-05:00",
+          "text": "That doesn't sound right. I'll call."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10024",
+      "customer_id": "SYN-C-1024",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50024",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-11T15:20:10-05:00",
+          "text": "Hello, I want a refund for my trekking poles (ORD-50024). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-11T15:21:02-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 20 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-11T15:21:36-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10025",
+      "customer_id": "SYN-C-1025",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50025",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-17T10:37:07-05:00",
+          "text": "I need to send back the hiking boots on ORD-50025 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-17T10:38:23-05:00",
+          "text": "I'm sorry, but items purchased on sale are final sale and can't be refunded, so I'm unable to process a refund for this order."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-17T10:39:40-05:00",
+          "text": "That's disappointing. I'll just keep it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10026",
+      "customer_id": "SYN-C-1026",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50026",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-20T08:43:41-05:00",
+          "text": "Hello, I want a refund for my headlamp (ORD-50026). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-20T08:44:08-05:00",
+          "text": "I'm sorry, but items purchased on sale are final sale and can't be refunded, so I'm unable to process a refund for this order."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-20T08:45:03-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10027",
+      "customer_id": "SYN-C-1027",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50027",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-09T18:22:03-05:00",
+          "text": "Hello, I want a refund for my GPS watch strap (ORD-50027). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-09T18:23:07-05:00",
+          "text": "I'm sorry, but items purchased on sale are final sale and can't be refunded, so I'm unable to process a refund for this order."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-09T18:25:15-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10028",
+      "customer_id": "SYN-C-1028",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50028",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-17T09:19:58-05:00",
+          "text": "I need to send back the insulated bottle on ORD-50028 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-17T09:21:04-05:00",
+          "text": "I'm sorry, but items purchased on sale are final sale and can't be refunded, so I'm unable to process a refund for this order."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-17T09:23:12-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10029",
+      "customer_id": "SYN-C-1029",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50029",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-24T10:10:09-05:00",
+          "text": "Can I return the daypack I bought? Order ORD-50029. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-24T10:11:47-05:00",
+          "text": "I'm sorry, but items purchased on sale are final sale and can't be refunded, so I'm unable to process a refund for this order."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-24T10:12:15-05:00",
+          "text": "Ok, never mind then."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10030",
+      "customer_id": "SYN-C-1030",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50030",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-30T13:57:45-05:00",
+          "text": "I need to send back the trail jacket on ORD-50030 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-30T13:59:00-05:00",
+          "text": "I'm sorry, but items purchased on sale are final sale and can't be refunded, so I'm unable to process a refund for this order."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-30T14:00:28-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10031",
+      "customer_id": "SYN-C-1031",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50031",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-23T08:11:43-05:00",
+          "text": "Can I return the headlamp I bought? Order ORD-50031. I'd like my money back. I don't have the paper receipt anymore."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-23T08:13:11-05:00",
+          "text": "To process a refund we need your original receipt. Without the original receipt, I'm unable to process a return."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-23T08:13:37-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10032",
+      "customer_id": "SYN-C-1032",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50032",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-03T09:55:57-05:00",
+          "text": "Hello, I want a refund for my trekking poles (ORD-50032). It doesn't fit. I don't have the paper receipt anymore."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-03T09:57:20-05:00",
+          "text": "To process a refund we need your original receipt. Without the original receipt, I'm unable to process a return."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-03T09:59:39-05:00",
+          "text": "That's disappointing. I'll just keep it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10033",
+      "customer_id": "SYN-C-1033",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50033",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-21T16:23:06-05:00",
+          "text": "Can I return the trail jacket I bought? Order ORD-50033. I'd like my money back. I don't have the paper receipt anymore."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-21T16:25:15-05:00",
+          "text": "To process a refund we need your original receipt. Without the original receipt, I'm unable to process a return."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-21T16:27:17-05:00",
+          "text": "That's disappointing. I'll just keep it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10034",
+      "customer_id": "SYN-C-1034",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50034",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-16T15:40:00-05:00",
+          "text": "Hello, I want a refund for my rain shell (ORD-50034). It doesn't fit. I don't have the paper receipt anymore."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-16T15:40:56-05:00",
+          "text": "To process a refund we need your original receipt. Without the original receipt, I'm unable to process a return."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-16T15:42:28-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10035",
+      "customer_id": "SYN-C-1035",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50035",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-21T09:07:56-05:00",
+          "text": "Can I return the merino base layer I bought? Order ORD-50035. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-21T09:09:44-05:00",
+          "text": "You're within our 14-day refund window, so I've started a return for you. You'll receive a prepaid label by email."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-21T09:11:38-05:00",
+          "text": "Great, thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10036",
+      "customer_id": "SYN-C-1036",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50036",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-23T16:47:09-05:00",
+          "text": "I need to send back the fleece pullover on ORD-50036 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-23T16:48:16-05:00",
+          "text": "You're within our 14-day refund window, so I've started a return for you. You'll receive a prepaid label by email."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-23T16:49:44-05:00",
+          "text": "Great, thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10037",
+      "customer_id": "SYN-C-1037",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50037",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-04T10:26:58-05:00",
+          "text": "Hello, I want a refund for my camp stove (ORD-50037). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-04T10:28:49-05:00",
+          "text": "You're within our 14-day refund window, so I've started a return for you. You'll receive a prepaid label by email."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-04T10:29:52-05:00",
+          "text": "Great, thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10038",
+      "customer_id": "SYN-C-1038",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50038",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-12T18:00:23-05:00",
+          "text": "Hi, I'd like to return the daypack from order ORD-50038. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-12T18:02:01-05:00",
+          "text": "You're within our 14-day refund window, so I've started a return for you. You'll receive a prepaid label by email."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-12T18:04:19-05:00",
+          "text": "Great, thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10039",
+      "customer_id": "SYN-C-1039",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50039",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-21T14:10:10-05:00",
+          "text": "I need to send back the camp stove on ORD-50039 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-21T14:10:45-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 55 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-21T14:12:38-05:00",
+          "text": "Ok, never mind then."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10040",
+      "customer_id": "SYN-C-1040",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50040",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-01T12:16:54-05:00",
+          "text": "Hi, I'd like to return the trekking poles from order ORD-50040. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-01T12:18:00-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 54 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-01T12:20:19-05:00",
+          "text": "That's disappointing. I'll just keep it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10041",
+      "customer_id": "SYN-C-1041",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50041",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-20T08:08:05-05:00",
+          "text": "Hi, I'd like to return the insulated bottle from order ORD-50041. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-20T08:09:53-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 44 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-20T08:11:52-05:00",
+          "text": "That's disappointing. I'll just keep it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10042",
+      "customer_id": "SYN-C-1042",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50042",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-18T14:49:37-05:00",
+          "text": "Can I return the merino base layer I bought? Order ORD-50042. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-18T14:50:31-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 49 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-18T14:52:19-05:00",
+          "text": "Ok, never mind then."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10043",
+      "customer_id": "SYN-C-1043",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50043",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-19T08:29:13-05:00",
+          "text": "Can I return the headlamp I bought? Order ORD-50043. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-19T08:30:36-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 39 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-19T08:32:13-05:00",
+          "text": "Ok."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10044",
+      "customer_id": "SYN-C-1044",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50044",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-12T11:26:05-05:00",
+          "text": "Hi, I'd like to return the rain shell from order ORD-50044. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-12T11:27:26-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 42 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-12T11:29:27-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10045",
+      "customer_id": "SYN-C-1045",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50045",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-07T12:19:34-05:00",
+          "text": "Can I return the trekking poles I bought? Order ORD-50045. I'd like my money back. It stopped working after a month — the zipper/strap broke."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-07T12:21:38-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 40 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-07T12:23:14-05:00",
+          "text": "That's disappointing. I'll just keep it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10046",
+      "customer_id": "SYN-C-1046",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50046",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-05T13:01:14-05:00",
+          "text": "Can I return the trekking poles I bought? Order ORD-50046. I'd like my money back. It stopped working after a month — the zipper/strap broke."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-05T13:02:30-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 39 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-05T13:03:42-05:00",
+          "text": "Ok, never mind then."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10047",
+      "customer_id": "SYN-C-1047",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50047",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-03T09:14:05-05:00",
+          "text": "Can I return the headlamp I bought? Order ORD-50047. I'd like my money back. It stopped working after a month — the zipper/strap broke."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-03T09:14:40-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 51 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-03T09:16:56-05:00",
+          "text": "Ok, never mind then."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10048",
+      "customer_id": "SYN-C-1048",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50048",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-13T15:43:12-05:00",
+          "text": "Hello, I want a refund for my trail jacket (ORD-50048). It doesn't fit. It's defective, the seam split."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-13T15:44:03-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 38 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-13T15:46:13-05:00",
+          "text": "Ok, never mind then."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10049",
+      "customer_id": "SYN-C-1049",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50049",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-19T16:17:25-05:00",
+          "text": "Can I return the camp stove I bought? Order ORD-50049. I'd like my money back. It's defective, the seam split."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-19T16:19:03-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 44 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-19T16:20:48-05:00",
+          "text": "Ok."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10050",
+      "customer_id": "SYN-C-1050",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50050",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-30T19:13:13-05:00",
+          "text": "Hello, I want a refund for my insulated bottle (ORD-50050). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-30T19:14:09-05:00",
+          "text": "Our refund window is 30 days from purchase. Your order was placed 37 days ago, so it isn't eligible for a standard refund. If the item is defective, I can connect you with a specialist."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-30T19:16:17-05:00",
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10051",
+      "customer_id": "SYN-C-1051",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50051",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-07T09:31:32-05:00",
+          "text": "I need to send back the headlamp on ORD-50051 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-07T09:32:45-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase, including sale items. Your order number is enough as proof of purchase. I've started a return for ORD-50051."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-07T09:33:50-05:00",
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10052",
+      "customer_id": "SYN-C-1052",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50052",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-11T12:23:17-05:00",
+          "text": "Hi, I'd like to return the insulated bottle from order ORD-50052. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-11T12:25:22-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase, including sale items. Your order number is enough as proof of purchase. I've started a return for ORD-50052."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-11T12:26:35-05:00",
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10053",
+      "customer_id": "SYN-C-1053",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50053",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-19T18:32:22-05:00",
+          "text": "Hello, I want a refund for my running shorts (ORD-50053). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-19T18:33:36-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase, including sale items. Your order number is enough as proof of purchase. I've started a return for ORD-50053."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-19T18:35:02-05:00",
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10054",
+      "customer_id": "SYN-C-1054",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50054",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-12T08:54:17-05:00",
+          "text": "Can I return the GPS watch strap I bought? Order ORD-50054. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-12T08:56:03-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase, including sale items. Your order number is enough as proof of purchase. I've started a return for ORD-50054."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-12T08:56:39-05:00",
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10055",
+      "customer_id": "SYN-C-1055",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50055",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-24T10:17:45-05:00",
+          "text": "Can I return the GPS watch strap I bought? Order ORD-50055. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-24T10:19:02-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase, including sale items. Your order number is enough as proof of purchase. I've started a return for ORD-50055."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-24T10:20:42-05:00",
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10056",
+      "customer_id": "SYN-C-1056",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50056",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-29T16:26:07-05:00",
+          "text": "I need to send back the trail jacket on ORD-50056 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-29T16:26:48-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase, including sale items. Your order number is enough as proof of purchase. I've started a return for ORD-50056."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-29T16:27:51-05:00",
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10057",
+      "customer_id": "SYN-C-1057",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50057",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-25T08:55:34-05:00",
+          "text": "I need to send back the camp stove on ORD-50057 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-25T08:57:26-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase, including sale items. Your order number is enough as proof of purchase. I've started a return for ORD-50057."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-25T08:59:37-05:00",
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10058",
+      "customer_id": "SYN-C-1058",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50058",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-15T17:40:32-05:00",
+          "text": "I need to send back the fleece pullover on ORD-50058 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-15T17:41:13-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase, including sale items. Your order number is enough as proof of purchase. I've started a return for ORD-50058."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-15T17:42:30-05:00",
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10059",
+      "customer_id": "SYN-C-1059",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50059",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-04T13:42:32-05:00",
+          "text": "I need to send back the daypack on ORD-50059 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-04T13:43:35-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase, including sale items. Your order number is enough as proof of purchase. I've started a return for ORD-50059."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-04T13:45:42-05:00",
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10060",
+      "customer_id": "SYN-C-1060",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50060",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-10T11:36:50-05:00",
+          "text": "I need to send back the rain shell on ORD-50060 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-10T11:38:07-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase, including sale items. Your order number is enough as proof of purchase. I've started a return for ORD-50060."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-10T11:39:52-05:00",
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10061",
+      "customer_id": "SYN-C-1061",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50061",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-08T17:55:53-05:00",
+          "text": "Hello, I want a refund for my hiking boots (ORD-50061). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-08T17:56:36-05:00",
+          "text": "Our refund window is 30 days from purchase. Your order was placed 47 days ago, so it isn't eligible for a standard refund. If the item is defective, I can connect you with a specialist."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-08T17:57:39-05:00",
+          "text": "Thanks."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10062",
+      "customer_id": "SYN-C-1062",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50062",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-11T18:56:47-05:00",
+          "text": "Can I change the shipping address for ORD-50062?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-11T18:57:40-05:00",
+          "text": "Yes. I've updated the address. You'll get a confirmation email."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10063",
+      "customer_id": "SYN-C-1063",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50063",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-06T18:58:11-05:00",
+          "text": "Can I change the shipping address for ORD-50063?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-06T18:59:50-05:00",
+          "text": "Yes. I've updated the address. You'll get a confirmation email."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10064",
+      "customer_id": "SYN-C-1064",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50064",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-19T16:32:51-05:00",
+          "text": "Can I change the shipping address for ORD-50064?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-19T16:34:28-05:00",
+          "text": "Yes. I've updated the address. You'll get a confirmation email."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10065",
+      "customer_id": "SYN-C-1065",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50065",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-19T13:33:21-05:00",
+          "text": "Do the hiking boots on ORD-50065 run large?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-19T13:33:47-05:00",
+          "text": "They run about a half size large. Most customers order a half size down."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10066",
+      "customer_id": "SYN-C-1066",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50066",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-17T08:33:11-05:00",
+          "text": "Where is my order ORD-50066? It hasn't arrived yet."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-17T08:34:00-05:00",
+          "text": "Your package is in transit and should arrive by Friday."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10067",
+      "customer_id": "SYN-C-1067",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50067",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-08T17:21:28-05:00",
+          "text": "Where is my order ORD-50067? It hasn't arrived yet."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-08T17:23:15-05:00",
+          "text": "Your package is in transit and should arrive by Friday."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10068",
+      "customer_id": "SYN-C-1068",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50068",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-12T18:21:18-05:00",
+          "text": "Where is my order ORD-50068? It hasn't arrived yet."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-12T18:22:41-05:00",
+          "text": "Your package is in transit and should arrive by Friday."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10069",
+      "customer_id": "SYN-C-1069",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50069",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-08T16:25:11-05:00",
+          "text": "Can I change the shipping address for ORD-50069?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-08T16:26:32-05:00",
+          "text": "Yes. I've updated the address. You'll get a confirmation email."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10070",
+      "customer_id": "SYN-C-1070",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50070",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-19T16:21:49-05:00",
+          "text": "Can I change the shipping address for ORD-50070?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-19T16:23:06-05:00",
+          "text": "Yes. I've updated the address. You'll get a confirmation email."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10071",
+      "customer_id": "SYN-C-1071",
+      "channel": "web-chat",
+      "app_version": "assist-2026.05.2",
+      "order_id": "ORD-50071",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-05-25T11:00:00-05:00",
+          "text": "Can I return the insulated bottle I bought? Order ORD-50071. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-05-25T11:02:06-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50071."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-05-25T11:03:31-05:00",
+          "text": "Thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10072",
+      "customer_id": "SYN-C-1072",
+      "channel": "web-chat",
+      "app_version": "assist-2026.05.2",
+      "order_id": "ORD-50072",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-05-20T15:00:00-05:00",
+          "text": "Hi, I'd like to return the trail jacket from order ORD-50072. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-05-20T15:01:58-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50072."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-05-20T15:02:38-05:00",
+          "text": "Thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10073",
+      "customer_id": "SYN-C-1073",
+      "channel": "web-chat",
+      "app_version": "assist-2026.05.2",
+      "order_id": "ORD-50073",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-02T11:00:00-05:00",
+          "text": "Hi, I'd like to return the camp stove from order ORD-50073. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-02T11:00:38-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50073."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-02T11:02:03-05:00",
+          "text": "Thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10074",
+      "customer_id": "SYN-C-1074",
+      "channel": "web-chat",
+      "app_version": "assist-2026.05.2",
+      "order_id": "ORD-50074",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-05-24T10:00:00-05:00",
+          "text": "I need to send back the merino base layer on ORD-50074 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-05-24T10:01:30-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50074."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-05-24T10:03:34-05:00",
+          "text": "Thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10075",
+      "customer_id": "SYN-C-1075",
+      "channel": "web-chat",
+      "app_version": "assist-2026.05.2",
+      "order_id": "ORD-50075",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-01T17:00:00-05:00",
+          "text": "Hi, I'd like to return the camp stove from order ORD-50075. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-01T17:01:42-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50075."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-01T17:03:52-05:00",
+          "text": "Thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10076",
+      "customer_id": "SYN-C-1076",
+      "channel": "web-chat",
+      "app_version": "assist-2026.05.2",
+      "order_id": "ORD-50076",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-05-26T11:00:00-05:00",
+          "text": "I need to send back the trail jacket on ORD-50076 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-05-26T11:00:28-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50076."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-05-26T11:01:21-05:00",
+          "text": "Thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10077",
+      "customer_id": "SYN-C-1077",
+      "channel": "web-chat",
+      "app_version": "assist-2026.07.4",
+      "order_id": "ORD-50077",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-08-05T18:00:00-05:00",
+          "text": "Hi, I'd like to return the trail jacket from order ORD-50077. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-08-05T18:01:53-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50077."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-08-05T18:03:08-05:00",
+          "text": "Thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10078",
+      "customer_id": "SYN-C-1078",
+      "channel": "web-chat",
+      "app_version": "assist-2026.07.4",
+      "order_id": "ORD-50078",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-30T18:00:00-05:00",
+          "text": "Can I return the hiking boots I bought? Order ORD-50078. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-30T18:01:28-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50078."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-30T18:02:11-05:00",
+          "text": "Thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10079",
+      "customer_id": "SYN-C-1079",
+      "channel": "web-chat",
+      "app_version": "assist-2026.07.4",
+      "order_id": "ORD-50079",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-08-06T10:00:00-05:00",
+          "text": "Can I return the hiking boots I bought? Order ORD-50079. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-08-06T10:00:43-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50079."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-08-06T10:02:29-05:00",
+          "text": "Thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10080",
+      "customer_id": "SYN-C-1080",
+      "channel": "web-chat",
+      "app_version": "assist-2026.07.4",
+      "order_id": "ORD-50080",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-08-06T13:00:00-05:00",
+          "text": "Can I return the trail jacket I bought? Order ORD-50080. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-08-06T13:01:26-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50080."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-08-06T13:02:27-05:00",
+          "text": "Thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10081",
+      "customer_id": "SYN-C-1081",
+      "channel": "web-chat",
+      "app_version": "assist-2026.07.4",
+      "order_id": "ORD-50081",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-08-03T13:00:00-05:00",
+          "text": "Hi, I'd like to return the insulated bottle from order ORD-50081. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-08-03T13:00:45-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50081."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-08-03T13:01:31-05:00",
+          "text": "Thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10082",
+      "customer_id": "SYN-C-1082",
+      "channel": "web-chat",
+      "app_version": "assist-2026.07.4",
+      "order_id": "ORD-50082",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-08-04T17:00:00-05:00",
+          "text": "Hi, I'd like to return the camp stove from order ORD-50082. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-08-04T17:00:29-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50082."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-08-04T17:00:58-05:00",
+          "text": "Thanks!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10083",
+      "customer_id": "SYN-C-1083",
+      "channel": "web-chat",
+      "app_version": "assist-2026.05.2",
+      "order_id": "ORD-50083",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-10T08:59:00-05:00",
+          "text": "Can I return the hiking boots I bought? Order ORD-50083. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-10T08:59:40-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50083."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10084",
+      "customer_id": "SYN-C-1084",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50084",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-10T09:00:00-05:00",
+          "text": "Hi, I'd like to return the insulated bottle from order ORD-50084. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-10T09:01:00-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 21 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-10T09:02:22-05:00",
+          "text": "Ok, never mind then."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10085",
+      "customer_id": "SYN-C-1085",
+      "channel": "web-chat",
+      "app_version": "assist-2026.07.4",
+      "order_id": "ORD-50085",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-16T11:00:00-05:00",
+          "text": "Can I return the trail jacket I bought? Order ORD-50085. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-16T11:00:25-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50085."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10086",
+      "customer_id": "SYN-C-1086",
+      "channel": "web-chat",
+      "app_version": "assist-2026.07.4",
+      "order_id": "ORD-50086",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-18T11:00:00-05:00",
+          "text": "Can I return the GPS watch strap I bought? Order ORD-50086. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-18T11:01:11-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50086."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10087",
+      "customer_id": "SYN-C-1087",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50087",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-13T15:45:52-05:00",
+          "text": "Can I return the insulated bottle I bought? Order ORD-50087. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-13T15:47:17-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 18 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-13T15:48:06-05:00",
+          "text": "Are you sure? I'll try again later."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10088",
+      "customer_id": "SYN-C-1087",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50087",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-15T15:45:52-05:00",
+          "text": "Trying again about a refund for ORD-50087."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-15T15:47:36-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 20 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-15T15:48:31-05:00",
+          "text": "Ok."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10089",
+      "customer_id": "SYN-C-1088",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50088",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-13T08:54:22-05:00",
+          "text": "I need to send back the camp stove on ORD-50088 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-13T08:56:41-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 22 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10090",
+      "customer_id": "SYN-C-1088",
+      "channel": "mobile-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50088",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-13T09:54:22-05:00",
+          "text": "refund for ORD-50088?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-13T09:56:07-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 22 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-13T09:57:48-05:00",
+          "text": "Ok."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10091",
+      "customer_id": "SYN-C-1088",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50089",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-17T08:54:22-05:00",
+          "text": "Where is my newer order? It hasn't arrived."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-17T08:55:20-05:00",
+          "text": "It's in transit and should arrive Monday."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10092",
+      "customer_id": "SYN-C-1089",
+      "channel": "mobile-chat",
+      "app_version": null,
+      "order_id": "ORD-50090",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-18T09:55:20-05:00",
+          "text": "Can I return the headlamp I bought? Order ORD-50090. I'd like my money back."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-18T09:56:22-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 26 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-18T09:57:33-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10093",
+      "customer_id": "SYN-C-1090",
+      "channel": "mobile-chat",
+      "app_version": null,
+      "order_id": "ORD-50091",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-15T15:23:39-05:00",
+          "text": "I need to send back the insulated bottle on ORD-50091 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-15T15:24:41-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 20 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-15T15:25:23-05:00",
+          "text": "Ok, never mind then."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10094",
+      "customer_id": "SYN-C-1091",
+      "channel": "mobile-chat",
+      "app_version": null,
+      "order_id": "ORD-50092",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-11T18:09:13-05:00",
+          "text": "Hi, I'd like to return the trail jacket from order ORD-50092. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-11T18:10:39-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 27 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-11T18:12:00-05:00",
+          "text": "Ok."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10095",
+      "customer_id": "SYN-C-1092",
+      "channel": "mobile-chat",
+      "app_version": null,
+      "order_id": "ORD-50093",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-17T10:56:36-05:00",
+          "text": "Hi, I'd like to return the trail jacket from order ORD-50093. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-17T10:57:05-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 44 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-17T10:59:20-05:00",
+          "text": "Ok, never mind then."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10096",
+      "customer_id": "SYN-C-1093",
+      "channel": "mobile-chat",
+      "app_version": null,
+      "order_id": "ORD-50094",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-14T19:49:51-05:00",
+          "text": "Hi, I'd like to return the camp stove from order ORD-50094. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-14T19:51:40-05:00",
+          "text": "Our refund policy allows returns within 30 days of purchase. I've started a return for ORD-50094."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10097",
+      "customer_id": "SYN-C-1094",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50095",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-14T13:19:18-05:00",
+          "text": "I need to send back the GPS watch strap on ORD-50095 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-14T13:21:34-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 24 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-14T13:22:04-05:00",
+          "text": "Ok, never mind then."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10098",
+      "customer_id": "SYN-C-1095",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50096",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-15T18:45:54-05:00",
+          "text": "I need to send back the trekking poles on ORD-50096 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-15T18:46:21-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 21 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-15T18:47:54-05:00",
+          "text": "Fine. Forget it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10099",
+      "customer_id": "SYN-C-1096",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.1",
+      "order_id": "ORD-50097",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-11T13:24:42-05:00",
+          "text": "Hi, I'd like to return the camp stove from order ORD-50097. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-11T13:27:00-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 19 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-11T13:28:04-05:00",
+          "text": "I'll call support."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10100",
+      "customer_id": "SYN-C-1097",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50098",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-15T11:52:27-05:00",
+          "text": "Hi, I'd like to return the GPS watch strap from order ORD-50098. Can I get a refund? I bought it 10 days ago."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-15T11:53:46-05:00",
+          "text": "Our records show the order was placed 24 days ago. Our refund policy allows returns within 14 days of purchase, so it is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-15T11:54:48-05:00",
+          "text": "That's disappointing. I'll just keep it."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10101",
+      "customer_id": "SYN-C-1098",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50099",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-25T15:24:40-05:00",
+          "text": "Hi, I'd like to return the trail jacket from order ORD-50099. Can I get a refund?"
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-06-25T15:25:35-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 21 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-06-25T15:26:12-05:00",
+          "text": "I'll ask a person."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10102",
+      "customer_id": "TEST-C-1099",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50100",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-20T10:59:27-05:00",
+          "text": "Hello, I want a refund for my headlamp (ORD-50100). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-20T11:01:15-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 20 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10103",
+      "customer_id": "TEST-C-1100",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50101",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-16T11:01:51-05:00",
+          "text": "I need to send back the trekking poles on ORD-50101 and get a refund please."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-16T11:03:00-05:00",
+          "text": "Thanks for reaching out. Our refund policy allows returns within 14 days of purchase. Your order was placed 20 days ago, so unfortunately it's outside the 14-day window and is not eligible for a refund."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10104",
+      "customer_id": "SYN-C-1101",
+      "channel": "agent-chat",
+      "app_version": null,
+      "order_id": "ORD-50102",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-06-26T15:55:38-05:00",
+          "text": "Hello, I want a refund for my insulated bottle (ORD-50102). It doesn't fit."
+        },
+        {
+          "seq": 2,
+          "role": "agent",
+          "timestamp": "2026-06-26T15:57:57-05:00",
+          "text": "Happy to help. Our refund policy allows returns within 30 days. I've started a return for ORD-50102."
+        }
+      ]
+    },
+    {
+      "conversation_id": "CONV-10105",
+      "customer_id": "SYN-C-1102",
+      "channel": "web-chat",
+      "app_version": "assist-2026.06.3",
+      "order_id": "ORD-50103",
+      "messages": [
+        {
+          "seq": 1,
+          "role": "customer",
+          "timestamp": "2026-07-04T17:19:06-05:00",
+          "text": "I need to return these for a different size — can I exchange them? Order ORD-50103."
+        },
+        {
+          "seq": 2,
+          "role": "assistant",
+          "timestamp": "2026-07-04T17:21:02-05:00",
+          "text": "Yes! Size exchanges are free within the 14-day exchange window. I've emailed you an exchange label."
+        },
+        {
+          "seq": 3,
+          "role": "customer",
+          "timestamp": "2026-07-04T17:22:41-05:00",
+          "text": "Perfect, thanks."
+        }
+      ]
+    }
+  ]
+}

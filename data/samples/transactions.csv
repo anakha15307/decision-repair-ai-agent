@@ -1,0 +1,149 @@
+transaction_id,customer_id,order_id,type,amount,currency,timestamp,status,item_category,sale_item,defective
+TXN-700001,SYN-C-1001,ORD-50001,purchase,182.99,USD,2026-05-31T12:23:00-05:00,settled,outdoor gear,false,false
+TXN-700002,SYN-C-1002,ORD-50002,purchase,54.50,USD,2026-05-28T13:46:32-05:00,settled,apparel,false,false
+TXN-700003,SYN-C-1003,ORD-50003,purchase,159.99,USD,2026-06-20T17:04:17-05:00,settled,apparel,true,false
+TXN-700004,SYN-C-1004,ORD-50004,purchase,236.95,USD,2026-05-30T04:58:08-05:00,settled,outdoor gear,false,false
+TXN-700005,SYN-C-1005,ORD-50005,purchase,111.95,USD,2026-05-13T12:23:03-05:00,settled,footwear,false,false
+TXN-700006,SYN-C-1006,ORD-50006,purchase,130.95,USD,2026-05-30T15:40:06-05:00,settled,outdoor gear,false,false
+TXN-700007,SYN-C-1007,ORD-50007,purchase,110.99,USD,2026-06-05T14:03:22-05:00,settled,apparel,false,false
+TXN-700008,SYN-C-1008,ORD-50008,purchase,137.00,USD,2026-06-30T10:01:47-05:00,settled,outdoor gear,false,false
+TXN-700009,SYN-C-1009,ORD-50009,purchase,153.95,USD,2026-05-26T12:44:57-05:00,settled,electronics accessories,true,false
+TXN-700010,SYN-C-1010,ORD-50010,purchase,115.00,USD,2026-05-22T07:22:32-05:00,settled,outdoor gear,false,false
+TXN-700011,SYN-C-1011,ORD-50011,purchase,170.50,USD,2026-06-22T04:46:30-05:00,settled,outdoor gear,false,false
+TXN-700012,SYN-C-1012,ORD-50012,purchase,71.95,USD,2026-06-01T07:09:37-05:00,settled,electronics accessories,false,false
+TXN-700013,SYN-C-1013,ORD-50013,purchase,212.00,USD,2026-06-14T06:54:35-05:00,settled,electronics accessories,false,false
+TXN-700014,SYN-C-1014,ORD-50014,purchase,81.50,USD,2026-06-07T04:31:46-05:00,settled,outdoor gear,false,false
+TXN-700015,SYN-C-1015,ORD-50015,purchase,52.00,USD,2026-05-25T13:46:22-05:00,settled,electronics accessories,false,false
+TXN-700016,SYN-C-1015,ORD-50015,refund,52.00,USD,2026-06-22T17:46:22-05:00,completed,,,
+TXN-700017,SYN-C-1016,ORD-50016,purchase,215.00,USD,2026-06-15T06:33:44-05:00,settled,footwear,false,false
+TXN-700018,SYN-C-1016,ORD-50016,refund,215.00,USD,2026-07-14T14:33:44-05:00,completed,,,
+TXN-700019,SYN-C-1017,ORD-50017,purchase,141.50,USD,2026-05-20T13:03:41-05:00,settled,outdoor gear,false,false
+TXN-700020,SYN-C-1017,ORD-50017,refund,141.50,USD,2026-06-13T21:03:41-05:00,completed,,,
+TXN-700021,SYN-C-1018,ORD-50018,purchase,166.50,USD,2026-06-14T12:18:04-05:00,settled,apparel,false,false
+TXN-700022,SYN-C-1018,ORD-50018,refund,166.50,USD,2026-07-02T18:18:04-05:00,completed,,,
+TXN-700023,SYN-C-1019,ORD-50019,purchase,173.50,USD,2026-05-29T07:53:56-05:00,settled,outdoor gear,false,false
+TXN-700024,SYN-C-1019,ORD-50019,refund,173.50,USD,2026-06-29T10:53:56-05:00,completed,,,
+TXN-700025,SYN-C-1020,ORD-50020,purchase,71.50,USD,2026-06-03T12:49:28-05:00,settled,apparel,false,false
+TXN-700026,SYN-C-1020,ORD-50020,refund,71.50,USD,2026-06-28T20:49:28-05:00,completed,,,
+TXN-700027,SYN-C-1021,ORD-50021,purchase,79.50,USD,2026-06-18T13:40:11-05:00,settled,apparel,false,false
+TXN-700028,SYN-C-1021,ORD-50021,refund,79.50,USD,2026-07-11T19:40:11-05:00,completed,,,
+TXN-700029,SYN-C-1022,ORD-50022,purchase,35.99,USD,2026-05-29T17:01:07-05:00,settled,outdoor gear,false,false
+TXN-700030,SYN-C-1022,ORD-50022,refund,35.99,USD,2026-06-22T20:01:07-05:00,completed,,,
+TXN-700031,SYN-C-1023,ORD-50023,purchase,103.00,USD,2026-06-15T06:52:50-05:00,settled,apparel,false,false
+TXN-700032,SYN-C-1023,ORD-50023,refund,103.00,USD,2026-07-06T13:52:50-05:00,completed,,,
+TXN-700033,SYN-C-1024,ORD-50024,purchase,60.00,USD,2026-05-22T09:20:10-05:00,settled,outdoor gear,false,false
+TXN-700034,SYN-C-1024,ORD-50024,refund,60.00,USD,2026-07-05T15:20:10-05:00,completed,,,
+TXN-700035,SYN-C-1025,ORD-50025,purchase,199.50,USD,2026-07-09T06:37:07-05:00,settled,footwear,true,false
+TXN-700036,SYN-C-1026,ORD-50026,purchase,37.99,USD,2026-06-30T04:43:41-05:00,settled,electronics accessories,true,false
+TXN-700037,SYN-C-1027,ORD-50027,purchase,239.95,USD,2026-06-23T16:22:03-05:00,settled,electronics accessories,true,false
+TXN-700038,SYN-C-1028,ORD-50028,purchase,181.50,USD,2026-06-08T05:19:58-05:00,settled,outdoor gear,true,false
+TXN-700039,SYN-C-1029,ORD-50029,purchase,165.00,USD,2026-06-05T09:10:09-05:00,settled,outdoor gear,true,false
+TXN-700040,SYN-C-1030,ORD-50030,purchase,87.50,USD,2026-06-24T09:57:45-05:00,settled,apparel,true,false
+TXN-700041,SYN-C-1031,ORD-50031,purchase,189.95,USD,2026-06-05T02:11:43-05:00,settled,electronics accessories,false,false
+TXN-700042,SYN-C-1032,ORD-50032,purchase,41.99,USD,2026-06-09T07:55:57-05:00,settled,outdoor gear,false,false
+TXN-700043,SYN-C-1033,ORD-50033,purchase,82.00,USD,2026-07-15T10:23:06-05:00,settled,apparel,false,false
+TXN-700044,SYN-C-1034,ORD-50034,purchase,101.99,USD,2026-06-11T13:40:00-05:00,settled,apparel,false,false
+TXN-700045,SYN-C-1035,ORD-50035,purchase,66.95,USD,2026-06-15T03:07:56-05:00,settled,apparel,false,false
+TXN-700046,SYN-C-1035,ORD-50035,refund_request,66.95,USD,2026-06-21T09:17:56-05:00,submitted,,,
+TXN-700047,SYN-C-1035,ORD-50035,refund,66.95,USD,2026-06-27T09:07:56-05:00,completed,,,
+TXN-700048,SYN-C-1036,ORD-50036,purchase,80.50,USD,2026-06-14T11:47:09-05:00,settled,apparel,false,false
+TXN-700049,SYN-C-1036,ORD-50036,refund_request,80.50,USD,2026-06-23T16:57:09-05:00,submitted,,,
+TXN-700050,SYN-C-1036,ORD-50036,refund,80.50,USD,2026-06-28T16:47:09-05:00,completed,,,
+TXN-700051,SYN-C-1037,ORD-50037,purchase,183.95,USD,2026-06-26T08:26:58-05:00,settled,outdoor gear,false,false
+TXN-700052,SYN-C-1037,ORD-50037,refund_request,183.95,USD,2026-07-04T10:36:58-05:00,submitted,,,
+TXN-700053,SYN-C-1037,ORD-50037,refund,183.95,USD,2026-07-08T10:26:58-05:00,completed,,,
+TXN-700054,SYN-C-1038,ORD-50038,purchase,79.95,USD,2026-07-01T13:00:23-05:00,settled,outdoor gear,false,false
+TXN-700055,SYN-C-1038,ORD-50038,refund_request,79.95,USD,2026-07-12T18:10:23-05:00,submitted,,,
+TXN-700056,SYN-C-1038,ORD-50038,refund,79.95,USD,2026-07-18T18:00:23-05:00,completed,,,
+TXN-700057,SYN-C-1039,ORD-50039,purchase,85.50,USD,2026-05-27T10:10:10-05:00,settled,outdoor gear,false,false
+TXN-700058,SYN-C-1040,ORD-50040,purchase,202.99,USD,2026-05-08T08:16:54-05:00,settled,outdoor gear,false,false
+TXN-700059,SYN-C-1041,ORD-50041,purchase,239.95,USD,2026-05-07T04:08:05-05:00,settled,outdoor gear,false,false
+TXN-700060,SYN-C-1042,ORD-50042,purchase,102.00,USD,2026-04-30T09:49:37-05:00,settled,apparel,false,false
+TXN-700061,SYN-C-1043,ORD-50043,purchase,32.00,USD,2026-05-11T06:29:13-05:00,settled,electronics accessories,false,false
+TXN-700062,SYN-C-1044,ORD-50044,purchase,181.50,USD,2026-05-31T09:26:05-05:00,settled,apparel,false,false
+TXN-700063,SYN-C-1045,ORD-50045,purchase,99.95,USD,2026-05-28T09:19:34-05:00,settled,outdoor gear,false,true
+TXN-700064,SYN-C-1046,ORD-50046,purchase,86.99,USD,2026-05-27T09:01:14-05:00,settled,outdoor gear,false,true
+TXN-700065,SYN-C-1047,ORD-50047,purchase,225.00,USD,2026-05-13T07:14:05-05:00,settled,electronics accessories,false,true
+TXN-700066,SYN-C-1048,ORD-50048,purchase,148.99,USD,2026-05-06T09:43:12-05:00,settled,apparel,false,true
+TXN-700067,SYN-C-1049,ORD-50049,purchase,180.00,USD,2026-05-06T11:17:25-05:00,settled,outdoor gear,false,true
+TXN-700068,SYN-C-1050,ORD-50050,purchase,231.95,USD,2026-05-24T15:13:13-05:00,settled,outdoor gear,true,false
+TXN-700069,SYN-C-1051,ORD-50051,purchase,128.99,USD,2026-06-18T06:31:32-05:00,settled,electronics accessories,false,false
+TXN-700070,SYN-C-1051,ORD-50051,refund_request,128.99,USD,2026-07-07T09:41:32-05:00,submitted,,,
+TXN-700071,SYN-C-1051,ORD-50051,refund,128.99,USD,2026-07-13T09:31:32-05:00,completed,,,
+TXN-700072,SYN-C-1052,ORD-50052,purchase,156.99,USD,2026-06-22T10:23:17-05:00,settled,outdoor gear,false,false
+TXN-700073,SYN-C-1052,ORD-50052,refund_request,156.99,USD,2026-07-11T12:33:17-05:00,submitted,,,
+TXN-700074,SYN-C-1052,ORD-50052,refund,156.99,USD,2026-07-15T12:23:17-05:00,completed,,,
+TXN-700075,SYN-C-1053,ORD-50053,purchase,46.00,USD,2026-07-16T15:32:22-05:00,settled,apparel,false,false
+TXN-700076,SYN-C-1053,ORD-50053,refund_request,46.00,USD,2026-07-19T18:42:22-05:00,submitted,,,
+TXN-700077,SYN-C-1053,ORD-50053,refund,46.00,USD,2026-07-23T18:32:22-05:00,completed,,,
+TXN-700078,SYN-C-1054,ORD-50054,purchase,86.50,USD,2026-06-17T07:54:17-05:00,settled,electronics accessories,false,false
+TXN-700079,SYN-C-1054,ORD-50054,refund_request,86.50,USD,2026-07-12T09:04:17-05:00,submitted,,,
+TXN-700080,SYN-C-1054,ORD-50054,refund,86.50,USD,2026-07-19T08:54:17-05:00,completed,,,
+TXN-700081,SYN-C-1055,ORD-50055,purchase,33.99,USD,2026-06-02T09:17:45-05:00,settled,electronics accessories,false,false
+TXN-700082,SYN-C-1055,ORD-50055,refund_request,33.99,USD,2026-06-24T10:27:45-05:00,submitted,,,
+TXN-700083,SYN-C-1055,ORD-50055,refund,33.99,USD,2026-06-27T10:17:45-05:00,completed,,,
+TXN-700084,SYN-C-1056,ORD-50056,purchase,163.95,USD,2026-06-08T13:26:07-05:00,settled,apparel,false,false
+TXN-700085,SYN-C-1056,ORD-50056,refund_request,163.95,USD,2026-06-29T16:36:07-05:00,submitted,,,
+TXN-700086,SYN-C-1056,ORD-50056,refund,163.95,USD,2026-07-02T16:26:07-05:00,completed,,,
+TXN-700087,SYN-C-1057,ORD-50057,purchase,163.99,USD,2026-06-02T03:55:34-05:00,settled,outdoor gear,true,false
+TXN-700088,SYN-C-1057,ORD-50057,refund_request,163.99,USD,2026-06-25T09:05:34-05:00,submitted,,,
+TXN-700089,SYN-C-1057,ORD-50057,refund,163.99,USD,2026-06-28T08:55:34-05:00,completed,,,
+TXN-700090,SYN-C-1058,ORD-50058,purchase,67.50,USD,2026-06-02T15:40:32-05:00,settled,apparel,true,false
+TXN-700091,SYN-C-1058,ORD-50058,refund_request,67.50,USD,2026-06-15T17:50:32-05:00,submitted,,,
+TXN-700092,SYN-C-1058,ORD-50058,refund,67.50,USD,2026-06-21T17:40:32-05:00,completed,,,
+TXN-700093,SYN-C-1059,ORD-50059,purchase,188.00,USD,2026-06-25T07:42:32-05:00,settled,outdoor gear,false,false
+TXN-700094,SYN-C-1059,ORD-50059,refund_request,188.00,USD,2026-07-04T13:52:32-05:00,submitted,,,
+TXN-700095,SYN-C-1059,ORD-50059,refund,188.00,USD,2026-07-07T13:42:32-05:00,completed,,,
+TXN-700096,SYN-C-1060,ORD-50060,purchase,40.95,USD,2026-06-12T07:36:50-05:00,settled,apparel,false,false
+TXN-700097,SYN-C-1060,ORD-50060,refund_request,40.95,USD,2026-07-10T11:46:50-05:00,submitted,,,
+TXN-700098,SYN-C-1060,ORD-50060,refund,40.95,USD,2026-07-13T11:36:50-05:00,completed,,,
+TXN-700099,SYN-C-1061,ORD-50061,purchase,179.50,USD,2026-05-22T12:55:53-05:00,settled,footwear,false,false
+TXN-700100,SYN-C-1062,ORD-50062,purchase,84.00,USD,2026-06-04T15:56:47-05:00,settled,electronics accessories,false,false
+TXN-700101,SYN-C-1063,ORD-50063,purchase,185.95,USD,2026-07-02T14:58:11-05:00,settled,outdoor gear,false,false
+TXN-700102,SYN-C-1064,ORD-50064,purchase,58.50,USD,2026-07-18T13:32:51-05:00,settled,footwear,false,false
+TXN-700103,SYN-C-1065,ORD-50065,purchase,213.95,USD,2026-07-12T07:33:21-05:00,settled,electronics accessories,false,false
+TXN-700104,SYN-C-1066,ORD-50066,purchase,132.50,USD,2026-07-13T04:33:11-05:00,settled,electronics accessories,false,false
+TXN-700105,SYN-C-1067,ORD-50067,purchase,199.95,USD,2026-06-29T14:21:28-05:00,settled,electronics accessories,false,false
+TXN-700106,SYN-C-1068,ORD-50068,purchase,103.95,USD,2026-07-03T16:21:18-05:00,settled,electronics accessories,false,false
+TXN-700107,SYN-C-1069,ORD-50069,purchase,58.95,USD,2026-07-03T10:25:11-05:00,settled,outdoor gear,false,false
+TXN-700108,SYN-C-1070,ORD-50070,purchase,65.95,USD,2026-07-10T15:21:49-05:00,settled,electronics accessories,false,false
+TXN-700109,SYN-C-1071,ORD-50071,purchase,60.95,USD,2026-05-01T09:00:00-05:00,settled,outdoor gear,false,false
+TXN-700110,SYN-C-1072,ORD-50072,purchase,132.50,USD,2026-05-15T09:00:00-05:00,settled,apparel,false,false
+TXN-700111,SYN-C-1073,ORD-50073,purchase,149.00,USD,2026-05-12T05:00:00-05:00,settled,outdoor gear,false,false
+TXN-700112,SYN-C-1074,ORD-50074,purchase,117.50,USD,2026-05-03T07:00:00-05:00,settled,apparel,false,false
+TXN-700113,SYN-C-1075,ORD-50075,purchase,36.99,USD,2026-05-07T13:00:00-05:00,settled,outdoor gear,false,false
+TXN-700114,SYN-C-1076,ORD-50076,purchase,219.50,USD,2026-05-21T06:00:00-05:00,settled,apparel,false,false
+TXN-700115,SYN-C-1077,ORD-50077,purchase,165.95,USD,2026-07-28T12:00:00-05:00,settled,apparel,false,false
+TXN-700116,SYN-C-1078,ORD-50078,purchase,104.95,USD,2026-07-25T13:00:00-05:00,settled,footwear,false,false
+TXN-700117,SYN-C-1079,ORD-50079,purchase,219.99,USD,2026-07-25T09:00:00-05:00,settled,footwear,false,false
+TXN-700118,SYN-C-1080,ORD-50080,purchase,90.95,USD,2026-07-21T10:00:00-05:00,settled,apparel,false,false
+TXN-700119,SYN-C-1081,ORD-50081,purchase,210.99,USD,2026-07-11T08:00:00-05:00,settled,outdoor gear,false,false
+TXN-700120,SYN-C-1082,ORD-50082,purchase,236.95,USD,2026-07-23T16:00:00-05:00,settled,outdoor gear,false,false
+TXN-700121,SYN-C-1083,ORD-50083,purchase,207.99,USD,2026-05-21T06:59:00-05:00,settled,footwear,false,false
+TXN-700122,SYN-C-1084,ORD-50084,purchase,110.99,USD,2026-05-20T03:00:00-05:00,settled,outdoor gear,false,false
+TXN-700123,SYN-C-1085,ORD-50085,purchase,165.95,USD,2026-06-28T06:00:00-05:00,settled,apparel,false,false
+TXN-700124,SYN-C-1086,ORD-50086,purchase,90.00,USD,2026-06-25T08:00:00-05:00,settled,electronics accessories,false,false
+TXN-700125,SYN-C-1087,ORD-50087,purchase,179.00,USD,2026-05-26T13:45:52-05:00,settled,outdoor gear,false,false
+TXN-700126,SYN-C-1088,ORD-50088,purchase,131.50,USD,2026-05-22T06:54:22-05:00,settled,outdoor gear,false,false
+TXN-700127,SYN-C-1089,ORD-50090,purchase,55.50,USD,2026-05-23T04:55:20-05:00,settled,electronics accessories,false,false
+TXN-700128,SYN-C-1090,ORD-50091,purchase,181.95,USD,2026-05-26T11:23:39-05:00,settled,outdoor gear,false,false
+TXN-700129,SYN-C-1091,ORD-50092,purchase,167.95,USD,2026-05-15T16:09:13-05:00,settled,apparel,false,false
+TXN-700130,SYN-C-1092,ORD-50093,purchase,59.00,USD,2026-05-04T08:56:36-05:00,settled,apparel,false,false
+TXN-700131,SYN-C-1093,ORD-50094,purchase,101.50,USD,2026-06-05T13:49:51-05:00,settled,outdoor gear,false,false
+TXN-700132,SYN-C-1093,ORD-50094,refund,101.50,USD,2026-06-19T19:49:51-05:00,completed,,,
+TXN-700133,SYN-C-1096,ORD-50097,purchase,79.99,USD,2026-05-23T07:24:42-05:00,settled,outdoor gear,false,false
+TXN-700134,SYN-C-1096,ORD-50097,refund,79.99,USD,2026-06-13T13:24:42-05:00,completed,,,
+TXN-700135,SYN-C-1097,ORD-50098,purchase,68.95,USD,2026-05-22T05:52:27-05:00,settled,electronics accessories,false,false
+TXN-700136,SYN-C-1098,ORD-50099,purchase,185.99,USD,2026-06-04T12:24:40-05:00,settled,apparel,false,false
+TXN-700137,SYN-C-1098,ORD-50099,refund,185.99,USD,2026-06-26T15:24:40-05:00,completed,,,
+TXN-700138,SYN-C-1098,ORD-50099,refund_reversal,185.99,USD,2026-06-28T15:24:40-05:00,completed,,,
+TXN-700139,TEST-C-1099,ORD-50100,purchase,69.00,USD,2026-06-30T07:59:27-05:00,settled,electronics accessories,false,false
+TXN-700140,TEST-C-1100,ORD-50101,purchase,151.99,USD,2026-06-26T05:01:51-05:00,settled,outdoor gear,false,false
+TXN-700141,SYN-C-1101,ORD-50102,purchase,212.99,USD,2026-06-14T13:55:38-05:00,settled,outdoor gear,false,false
+TXN-700142,SYN-C-1102,ORD-50103,purchase,102.50,USD,2026-06-25T12:19:06-05:00,settled,electronics accessories,false,false
+TXN-700143,SYN-C-1103,ORD-50104,purchase,91.99,USD,2026-05-26T07:28:54-05:00,settled,outdoor gear,false,false
+TXN-700144,SYN-C-1104,ORD-50105,purchase,40.50,USD,2026-06-04T12:24:58-05:00,settled,electronics accessories,false,false
+TXN-700145,SYN-C-1104,ORD-50105,refund,40.50,USD,2026-06-22T17:24:58-05:00,completed,,,
+TXN-700146,SYN-C-1105,ORD-50106,purchase,174.50,USD,2026-06-22T11:06:41-05:00,settled,apparel,false,false
+TXN-700147,SYN-C-1106,ORD-50107,purchase,35.99,USD,2026-05-24T12:32:01-05:00,settled,apparel,false,false
+TXN-700148,SYN-C-1107,ORD-50108,purchase,42.00,USD,2026-06-27T12:42:47-05:00,settled,outdoor gear,false,false

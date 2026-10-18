@@ -1,0 +1,38 @@
+{
+  "name": "decision-repair",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Decision Repair prototype: identify people potentially affected by an AI error, review cases, and verify corrective actions.",
+  "scripts": {
+    "dev": "next dev -p 3100",
+    "build": "next build",
+    "start": "next start -p 3100",
+    "generate:data": "tsx scripts/generate-demo-data.ts",
+    "seed": "tsx scripts/seed.ts",
+    "setup": "npm run generate:data && npm run seed",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "0.130.0",
+    "better-sqlite3": "12.11.1",
+    "next": "15.5.27",
+    "react": "19.1.10",
+    "react-dom": "19.1.10",
+    "zod": "3.25.76"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "7.6.13",
+    "@types/node": "22.15.30",
+    "@types/react": "19.1.8",
+    "@types/react-dom": "19.1.6",
+    "tsx": "4.20.3",
+    "typescript": "5.8.3",
+    "vitest": "3.2.4"
+  },
+  "allowScripts": {
+    "better-sqlite3@12.11.1": true,
+    "esbuild@0.25.12": true,
+    "esbuild@0.28.2": true
+  }
+}

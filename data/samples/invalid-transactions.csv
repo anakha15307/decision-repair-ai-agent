@@ -1,0 +1,5 @@
+transaction_id,customer_id,order_id,type,amount,currency,timestamp,status,item_category,sale_item,defective
+TXN-X1,SYN-C-9999,ORD-1,purchase,49.00,USD,2026-06-12T10:00:00-05:00,settled,apparel,false,false
+TXN-X2,SYN-C-9999,ORD-1,refund,abc,USD,2026-06-13T10:00:00-05:00,completed,,,
+TXN-X3,,ORD-2,purchase,10.00,usd,13 June 2026,settled,apparel,maybe,false
+TXN-X1,SYN-C-9999,ORD-1,chargeback,49.00,USD,2026-06-14T10:00:00-05:00,completed,,,

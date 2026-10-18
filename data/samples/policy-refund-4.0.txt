@@ -1,0 +1,5 @@
+Northwind Outfitters Refund Policy — version 4.0 (effective 2026-09-15; introduced after the incident)
+[RW] Refund window: items may be returned for a full refund within 45 days of purchase.
+[SALE] Sale items are refundable on the same terms as full-price items.
+[PROOF] Proof of purchase may be an original receipt, an order number, or the payment card used.
+[DEF] Defective items may be returned for a full refund within 90 days of purchase.

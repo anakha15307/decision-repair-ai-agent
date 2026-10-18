@@ -1,0 +1,776 @@
+{
+  "note": "Hidden ground-truth labels for evaluating the analyzer. Do not import as evidence. Synthetic data only.",
+  "generated_from": "scripts/dataset.ts (seed 20260610)",
+  "labels": [
+    {
+      "conversation_id": "CONV-10001",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10002",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10003",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10004",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10005",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10006",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10007",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10008",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10009",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10010",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10011",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10012",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10013",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10014",
+      "scenario": "A_rw_abandoned",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10015",
+      "scenario": "B_rw_refunded_later",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10016",
+      "scenario": "B_rw_refunded_later",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10017",
+      "scenario": "B_rw_refunded_later",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10018",
+      "scenario": "B_rw_refunded_later",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10019",
+      "scenario": "B_rw_refunded_later",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10020",
+      "scenario": "B_rw_refunded_later",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10021",
+      "scenario": "B_rw_refunded_later",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10022",
+      "scenario": "B_rw_refunded_later",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10023",
+      "scenario": "B_rw_refunded_later",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10024",
+      "scenario": "B2_refund_delayed",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10025",
+      "scenario": "C_sale_final",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10026",
+      "scenario": "C_sale_final",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10027",
+      "scenario": "C_sale_final",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10028",
+      "scenario": "C_sale_final",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10029",
+      "scenario": "C_sale_final",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10030",
+      "scenario": "C_sale_final",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10031",
+      "scenario": "D_receipt_required",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10032",
+      "scenario": "D_receipt_required",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10033",
+      "scenario": "D_receipt_required",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10034",
+      "scenario": "D_receipt_required",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10035",
+      "scenario": "D2_rw_within_both",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10036",
+      "scenario": "D2_rw_within_both",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10037",
+      "scenario": "D2_rw_within_both",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10038",
+      "scenario": "D2_rw_within_both",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10039",
+      "scenario": "E_rw_ineligible_anyway",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10040",
+      "scenario": "E_rw_ineligible_anyway",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10041",
+      "scenario": "E_rw_ineligible_anyway",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10042",
+      "scenario": "E_rw_ineligible_anyway",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10043",
+      "scenario": "E_rw_ineligible_anyway",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10044",
+      "scenario": "E_rw_ineligible_anyway",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10045",
+      "scenario": "F_defective_after_v31",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10046",
+      "scenario": "F_defective_after_v31",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10047",
+      "scenario": "F_defective_after_v31",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10048",
+      "scenario": "F_defective_before_v31",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10049",
+      "scenario": "F_defective_before_v31",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10050",
+      "scenario": "G_correct_advice",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10051",
+      "scenario": "G_correct_advice",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10052",
+      "scenario": "G_correct_advice",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10053",
+      "scenario": "G_correct_advice",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10054",
+      "scenario": "G_correct_advice",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10055",
+      "scenario": "G_correct_advice",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10056",
+      "scenario": "G_correct_advice",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10057",
+      "scenario": "G_correct_advice",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10058",
+      "scenario": "G_correct_advice",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10059",
+      "scenario": "G_correct_advice",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10060",
+      "scenario": "G_correct_advice",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10061",
+      "scenario": "G_correct_advice",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10062",
+      "scenario": "H_off_topic",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10063",
+      "scenario": "H_off_topic",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10064",
+      "scenario": "H_off_topic",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10065",
+      "scenario": "H_off_topic",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10066",
+      "scenario": "H_off_topic",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10067",
+      "scenario": "H_off_topic",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10068",
+      "scenario": "H_off_topic",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10069",
+      "scenario": "H_off_topic",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10070",
+      "scenario": "H_off_topic",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10071",
+      "scenario": "I_before_period",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10072",
+      "scenario": "I_before_period",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10073",
+      "scenario": "I_before_period",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10074",
+      "scenario": "I_before_period",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10075",
+      "scenario": "I_before_period",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10076",
+      "scenario": "I_before_period",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10077",
+      "scenario": "I_after_fix",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10078",
+      "scenario": "I_after_fix",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10079",
+      "scenario": "I_after_fix",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10080",
+      "scenario": "I_after_fix",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10081",
+      "scenario": "I_after_fix",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10082",
+      "scenario": "I_after_fix",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10083",
+      "scenario": "I_boundary_before_start",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10084",
+      "scenario": "I_boundary_at_start",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10085",
+      "scenario": "I_fixed_canary_in_period",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10086",
+      "scenario": "I_fixed_canary_in_period",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10087",
+      "scenario": "J_duplicate_first",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10088",
+      "scenario": "J_duplicate_second",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10089",
+      "scenario": "J_duplicate_first",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10090",
+      "scenario": "J_duplicate_second",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10091",
+      "scenario": "H_off_topic",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10092",
+      "scenario": "K_missing_version",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10093",
+      "scenario": "K_missing_version",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10094",
+      "scenario": "K_missing_version",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10095",
+      "scenario": "K_missing_version_ineligible",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10096",
+      "scenario": "K_missing_version_correct",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10097",
+      "scenario": "L_missing_purchase_record",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "indeterminate"
+    },
+    {
+      "conversation_id": "CONV-10098",
+      "scenario": "L_missing_purchase_record",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "indeterminate"
+    },
+    {
+      "conversation_id": "CONV-10099",
+      "scenario": "M_conflict_refund_not_received",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "indeterminate"
+    },
+    {
+      "conversation_id": "CONV-10100",
+      "scenario": "M_conflict_purchase_date",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "indeterminate"
+    },
+    {
+      "conversation_id": "CONV-10101",
+      "scenario": "M_conflict_refund_reversed",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "indeterminate"
+    },
+    {
+      "conversation_id": "CONV-10102",
+      "scenario": "N_test_account",
+      "should_be_candidate": false,
+      "exposed": true,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10103",
+      "scenario": "N_test_account",
+      "should_be_candidate": false,
+      "exposed": true,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10104",
+      "scenario": "N_human_agent_only",
+      "should_be_candidate": false,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10105",
+      "scenario": "O_exchange_window_not_refund",
+      "should_be_candidate": true,
+      "exposed": false,
+      "true_impact": "n/a"
+    },
+    {
+      "conversation_id": "CONV-10106",
+      "scenario": "P_prompt_injection_in_conversation",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10107",
+      "scenario": "P_injection_in_interaction_refunded",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "none"
+    },
+    {
+      "conversation_id": "CONV-10108",
+      "scenario": "A_rw_abandoned_email",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10109",
+      "scenario": "A_rw_abandoned_email",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    },
+    {
+      "conversation_id": "CONV-10110",
+      "scenario": "A_rw_abandoned_email",
+      "should_be_candidate": true,
+      "exposed": true,
+      "true_impact": "adverse"
+    }
+  ]
+}
